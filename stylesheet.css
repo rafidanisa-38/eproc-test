@@ -172,16 +172,16 @@ body {
 		z-index: 11;
 		color: black;
 		float: right;
-		font-size: 30px;
-		margin-right: 5%;
-		margin-top: 5%;
+		font-size: 2rem;
+		margin-right: 1rem;
+		margin-top: 1rem;
 	}
 
 	.navbar.open img {
 		position: absolute;
-		width: 52%;
-		height: 4rem;
+		width: 7rem;
 		margin-left: 5%;
+		margin-top: .65rem;
 		z-index: 11;
 	}
 	
